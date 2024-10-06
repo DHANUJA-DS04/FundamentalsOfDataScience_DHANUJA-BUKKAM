@@ -1,0 +1,23 @@
+{
+  "city_tier": [
+    1,
+    2,
+    3
+  ],
+  "shipping_rates": {
+    "goa": 100,
+    "karnataka": 1500,
+    "maharashtra": 2000
+  },
+  "cities": [
+    "panaji",
+    "belgaum",
+    "hubli",
+    "mumbai",
+    "nagpur",
+    "lonavala",
+    "bengaluru",
+    "quepem"
+  ],
+  "application_name": "Pharmacy Distribution System"
+}
